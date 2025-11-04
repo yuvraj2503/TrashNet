@@ -1,0 +1,7 @@
+MODELS ARE TOO BIG TO UPLOAD 
+
+1. RESNET18_BEST.PTH -> https://drive.google.com/file/d/1OoGu1uuEk5_tDM8n-r6bLISNANcLhtnU/view?usp=drive_link
+
+2. RESNET18_SCRAP_SCRIPTED.PT -> https://drive.google.com/file/d/1FNLEkfdwwA1ep_LzhLKk0xivYEX0YLUW/view?usp=drive_link
+
+3. RESNET18_SCRAP.ONNX -> https://drive.google.com/file/d/1c3Tz5eUdM8hiG7PHeSC7m2C1pI4X7qel/view?usp=drive_link
